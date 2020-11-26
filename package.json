@@ -1,0 +1,8 @@
+{
+  "name": "1095h-cli",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "1095h",
+  "bin": "lib/cli.js",
+  "license": "MIT"
+}
