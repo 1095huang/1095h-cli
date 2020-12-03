@@ -1,1 +1,0 @@
-module.exports = require('1095h-cli');

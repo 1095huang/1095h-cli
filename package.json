@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "author": "1095h",
-  "bin": "lib/cli.js",
+  "files": ["lib", "bin"],
+  "bin": "bin/1095h-cli.js",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.12.7",
